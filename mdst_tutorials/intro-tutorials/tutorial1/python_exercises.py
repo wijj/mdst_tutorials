@@ -52,4 +52,4 @@ def count_words(text):
         else:
             cd[x]=1
     return cd
-print(is_palindrome('dad'),is_palindrome('sad'),count_words('this is a sentence'),only_odds([1,2,3,4]))
+#print(is_palindrome('dad'),is_palindrome('sad'),count_words('this is a sentence'),only_odds([1,2,3,4]))
